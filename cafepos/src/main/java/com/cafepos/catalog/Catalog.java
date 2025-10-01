@@ -5,5 +5,3 @@ public interface Catalog {
     void add(Product p);
     Optional<Product> findById(String id);
 }
-
-//seeans branch attempt 2
